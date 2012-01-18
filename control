@@ -1,0 +1,9 @@
+Package: com.MRussian.noiconshadows
+Name: No Icon Shadows
+Depends: mobilesubstrate
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Forget about icon shadows on your homescreen. Just install, there is nothing to configure. No winterboard required. Enjoy :)
+Maintainer: Mr. Russian <mr_russian@rocketmail.com>
+Author: Mr. Russian <mr_russian@rocketmail.com>
+Section: Tweaks
